@@ -1,0 +1,7 @@
+{
+  "name": "Nusu Bestie",
+  "description": "Nusu is your absolute best friend and closest AI companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
